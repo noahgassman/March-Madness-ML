@@ -1,4 +1,4 @@
-# NCAA March Madness Tournament Prediction
+# NCAA March Madness Tournament Predictions
 
 ## Project Overview
 
